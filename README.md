@@ -1,5 +1,5 @@
 # owltab_extension
-Scalable extension for owltab tablet holder
+Scalable extension for [Owltab](https://owltab.com) tablet holder
 
 ## WHY?
 Our ipad pro was not easily adjustable/ mountable with the owltab tablet holder.
